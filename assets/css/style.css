@@ -228,3 +228,7 @@ section {
     color: #fce138
 }
 /* REACH OUT END */
+.hero-secondary {
+    background-color: black;
+    color: red;
+}
