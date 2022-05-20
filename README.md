@@ -12,3 +12,5 @@ https://Ryan-Buckley1.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Ryan Buckley
+
+### ©️2019 Run Buddy, Inc 
